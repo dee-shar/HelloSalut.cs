@@ -1,5 +1,5 @@
 # HelloSalut.cs
-Web-API for [hellosalut.stefanbohacek.com](hellosalut.stefanbohacek.com) get hello translation following user language
+Web-API for [hellosalut.stefanbohacek.com](https://hellosalut.stefanbohacek.com) get hello translation following user language
 
 ## Example
 ```cs
